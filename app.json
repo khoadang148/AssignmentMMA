@@ -25,5 +25,8 @@
     "web": {
       "favicon": "./assets/favicon.png"
     }
+  },
+  "extra": {
+    "API_URL": "https://67dea9b2471aaaa742853795.mockapi.io/SE173532"
   }
 }
